@@ -3,9 +3,9 @@
         "__comment": "Main",
         "main": {
             "src_name": [],
-            "data_file": "./data/3c353_meas_dt_1_seed_0.mat",
+            "data_file": [],
             "result_path": [],
-            "algorithm": "usara",
+            "algorithm": [],
             "im_dim_x": 512,
             "im_dim_y": 512,
             "im_pixel_size": [],
